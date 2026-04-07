@@ -1,6 +1,6 @@
 # ElegooNeptune3ProMods
 This is a journey documenting my first time using github and modding my Neptune 3 Pro
-This was wrote my me and no one else for the time being, I make the files im just a messager making this easy for others
+This was wrote my me and no one else for the time being, I didnt make any of the software im just a messager making it easy for people to follow along
 
 
 First you will need a Raspberry Pi, most models that are 3b and higher will work fine. To install [klipper](https://github.com/klipper3d/klipper) on your pi go to [raspberrypi](https://www.raspberrypi.com/software/) and download the imager. Plug in a micro sd into your computer with the imager (other storage can work this is just what im using)
