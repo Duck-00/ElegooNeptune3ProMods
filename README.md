@@ -18,9 +18,9 @@ In klipper.local create a folder named "printer.cfg" and paste [this](printer.cf
 
 PRINTING
 
-In console enter.....
+In console enter "BED_MESH_CALIBRATE", you might have to offset the z or level a few times.
 
-find model you would like to print and put it into the slicer of your choice, set the settings how you would normally. Instead of printing, export the gcode and upload into klipper and hit print.
+find model you would like to print and put it into the slicer of your choice, set the settings how you would normally. Instead of printing, export the gcode and upload into klipper and hit print. you can adjust the speed and extrusion rate in the dashboard for faster prints.
   
 
 
