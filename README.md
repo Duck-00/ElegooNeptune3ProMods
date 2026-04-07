@@ -16,7 +16,7 @@ Insert the micro sd into the pi and power it on. It will start the download proc
 
 !!THIS PART IS NOT MINE!!
 In klipper.local create a folder named "printer.cfg" and paste [this](printer.cfg).
-Thank you to the original creator [TheFeralEngineer]([url](https://github.com/TheFeralEngineer/Klipper-for-Elegoo-Neptune-series-3D-Printers/tree/main))
+Thank you to the original creator [TheFeralEngineer]([url](https://github.com/TheFeralEngineer/Klipper-for-Elegoo-Neptune-series-3D-Printers/tree/main)
 
 PRINTING
 
