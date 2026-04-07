@@ -12,6 +12,15 @@ Customization: set your user name and device as you want. I will be setting both
 
 Insert the micro sd into the pi and power it on. It will start the download process, once its dont restart if it didnt already and login. 
   Yay! Your klipper is now ready to boot into, Go to http://klipper.local ( what ever the device name is).
+
+
+In klipper.local create a folder named "printer.cfg" and paste [this](printer.cfg).
+
+PRINTING
+
+In console enter.....
+
+find model you would like to print and put it into the slicer of your choice, set the settings how you would normally. Instead of printing, export the gcode and upload into klipper and hit print.
   
 
 
