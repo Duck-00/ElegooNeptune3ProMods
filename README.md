@@ -1,2 +1,4 @@
 # ElegooNeptune3ProMods
-This is a repository that documents my journey installing klipper and modding my printer.
+This is a journey documenting my first time using github and modding my Neptune 3 Pro
+
+
